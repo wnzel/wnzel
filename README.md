@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 📍 Phoenix, Arizona
 
-I am currently a computer science student at ASU. I am currently working on my problem solving skills and teamwork skills. I also had the opportunity to work on a range of projects, These experiences have not only helped my technical skills but also taught me the value of persistence, adaptability, and effective communication.
+Computer Science student at Arizona State University, developing my skills in Full Stack Development. Specializing in Python and JavaScript.
 
 <hr/>
 
