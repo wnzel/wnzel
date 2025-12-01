@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 **`Software Developer`**
+
 Computer Science student at Arizona State University, developing my skills in Full Stack Development. Specializing in Python and JavaScript.
 
 <hr/>
