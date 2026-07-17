@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 **`Software Developer`**
 
-Computer Science student at Arizona State University, developing my skills in Full Stack Development. Specializing in Python and JavaScript.
+Computer Science student at Arizona State University. I’m interested in AI tooling and distributed systems, especially building automation workflows, developer tools, and reliable backend services.
 
 <hr/>
 
