@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 **`Software Developer`**
-
-Computer Science student at Arizona State University. I’m interested in AI tooling and distributed systems, especially building automation workflows, developer tools, and reliable backend services.
+I’m a senior Computer Science student at Arizona State University focused on full-stack development across web, mobile, and desktop software.
+I’m also interested in machine learning, AI tooling, backend systems, and building internal tools that automate workflows.
 
 <hr/>
 
